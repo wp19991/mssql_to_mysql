@@ -1,7 +1,7 @@
 ## mssql_to_mysql
 
 - 这是一个工具，可以把 `SQL Server` 导出的数据库脚本💻，转换为 `mysql` 的数据库脚本💻。
-- This is a tool that can convert database scripts exported from 'SQL Server' to 'MySQL'.
+- This is a tool💻 that can convert database scripts exported from 'SQL Server' to 'MySQL'.
 
 - 只用到了re库，无第三方库引用。
 - Only the re library is used, and there is no third-party library reference.
